@@ -1,5 +1,5 @@
 My IT Journey Website Project , with resume, bio, and contact information.
 
-Added HTML code using Visual Studio Code.
+Wanted to create my very own personal website to document my IT Jouney. 
 
-Deployed using Azure App Service
+This also allows me to get hands on knowledge wit Github and Azure DevOps.
