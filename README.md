@@ -1,4 +1,4 @@
-###🔭 Hello GitHub community! I'm Markas
+Helo I'm Markas,
 
 👋🌩️ Aspiring Microsoft Cloud Engineer | 🎖️ Veteran with 20+ Years of Dynamic Experience
 
