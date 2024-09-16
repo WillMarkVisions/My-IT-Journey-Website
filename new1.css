@@ -255,7 +255,23 @@ p {
     max-width: 300px; /* Square size */
     height: 300px; /* Square size */
     border-radius: 8px; /* Makes the image square */
+    
     margin: 30px auto; /* Center the image with margin */
+    object-fit: cover; /* Ensures the image covers the box without distortion */
+}
+
+/* Video Section and Centering */
+.video-section {
+    text-align: center; /* Centers content within the section */
+}
+
+.center-video {
+    display: block;
+    max-width: 300px; /* Square size */
+    height: 300px; /* Square size */
+    margin: 30px auto; /* Centers the video horizontally */
+    
+    border-radius: 8px; /* Rounded corners for the video */
     object-fit: cover; /* Ensures the image covers the box without distortion */
 }
 
