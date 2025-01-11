@@ -284,3 +284,32 @@ p {
     padding: 20px; /* Add padding for visual separation */
     background-color: #ffffff; /* Match container background */
 }
+
+.download-resume {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f5f7fa; /* Light background for contrast */
+    border: 1px solid #007BFF;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.download-resume h2 {
+    margin-bottom: 10px;
+    color: #010810; /* Matches the theme color */
+}
+
+.download-resume .resume-download-link {
+    font-size: 1.2em;
+    color: #fff;
+    background-color: #007BFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.download-resume .resume-download-link:hover {
+    background-color: #0056b3;
+}
