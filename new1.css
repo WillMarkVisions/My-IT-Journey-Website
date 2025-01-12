@@ -114,7 +114,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #007BFF;
+    background: #9900ff;
     color: #fff;
     transform: translateY(-3px);
 }
@@ -196,16 +196,18 @@ p {
 .skills-list li {
     display: flex;
     align-items: center;
-    font-size: 1.2em;
+    font-size: 1em; /* Reduced font size for better fit */
     color: #333;
-    padding: 10px;
-    border-radius: 8px;
+    padding: 8px; /* Slightly reduced padding */
+    border-radius: 6px; /* Match a smaller overall style */
     background-color: #f5faff; /* Light background for items */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    flex: 1 1 200px; /* Flex-basis to allow responsive wrapping */
-    max-width: 300px; /* Maximum width for each item */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Slightly smaller shadow */
+    flex: 1 1 150px; /* Adjusted flex-basis for a more compact layout */
+    max-width: 250px; /* Reduced max width for smaller items */
     text-align: center; /* Center text within the item */
+    margin: 5px; /* Add spacing between items */
 }
+
 
 .skills-list .icon-check {
     color: #007BFF; /* Primary color for icons */
@@ -287,15 +289,19 @@ p {
 
 .download-resume {
     text-align: center;
-    margin: 20px 0;
-    padding: 20px;
-    background-color: #f5f7fa; /* Light background for contrast */
-    border: 1px solid #007BFF;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* Center the box with consistent vertical spacing */
+    padding: 20px; /* Provide sufficient padding for content */
+    background-color: #f5f7fa; /* Match the container's background tone */
+    border: 1px solid #007BFF; /* Keep a consistent border style */
+    border-radius: 10px; /* Match the container's border radius */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: 100%; /* Ensure it matches the container's width */
+    max-width: 900px; /* Match the container's maximum width */
+    font-size: 1em; /* Keep text size consistent with the rest of the container */
 }
 
-.download-resume h2 {
+.download-resume h2 
+{
     margin-bottom: 10px;
     color: #010810; /* Matches the theme color */
 }
@@ -311,5 +317,5 @@ p {
 }
 
 .download-resume .resume-download-link:hover {
-    background-color: #0056b3;
+    background-color: #9900ff;
 }
