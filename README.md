@@ -4,7 +4,7 @@ Helo I'm Markas,
 
 Passionate about cloud technologies and dedicated to continuous learning. Currently diving deep into Microsoft Azure, optimizing cloud-based solutions, and exploring virtual environments daily. Proven problem solver, strategic thinker, and collaborative team player ready to bring a fresh perspective to cloud engineering.
 
-📚 Currently Learning: Azure DevOps, Infrastructure as Code, Kubernetes, Linux, PowerShell
+📚 Currently Learning: Azure DevOps, Linux, Ansible, and PowerShell
 
 🚀 Goals: Obtain Azure certifications and contribute to open-source cloud projects. -->
 
